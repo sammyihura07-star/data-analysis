@@ -1,0 +1,301 @@
+customer_id,city,segment,age
+CUST0001,Mombasa,Corporate,47
+CUST0002,Mombasa,Home Office,43
+CUST0003,Kisumu,Corporate,50
+CUST0004,Nairobi,Home Office,25
+CUST0005,Nairobi,Home Office,47
+CUST0006,Kisumu,Retail,60
+CUST0007,Mombasa,Corporate,32
+CUST0008,Kisumu,Retail,29
+CUST0009,Mombasa,Retail,40
+CUST0010,Kisumu,Home Office,44
+CUST0011,Mombasa,Corporate,47
+CUST0012,Kisumu,Corporate,28
+CUST0013,Nairobi,Retail,18
+CUST0014,Eldoret,Retail,54
+CUST0015,Mombasa,Retail,28
+CUST0016,Nairobi,Home Office,33
+CUST0017,Eldoret,Home Office,42
+CUST0018,Mombasa,Home Office,53
+CUST0019,Nairobi,Home Office,33
+CUST0020,Kisumu,Home Office,55
+CUST0021,Kisumu,Home Office,61
+CUST0022,Kisumu,Home Office,41
+CUST0023,Eldoret,Corporate,21
+CUST0024,Nairobi,Corporate,59
+CUST0025,Eldoret,Corporate,33
+CUST0026,Eldoret,Home Office,49
+CUST0027,Kisumu,Retail,21
+CUST0028,Kisumu,Retail,21
+CUST0029,Kisumu,Home Office,62
+CUST0030,Nairobi,Home Office,21
+CUST0031,Mombasa,Corporate,51
+CUST0032,Mombasa,Home Office,65
+CUST0033,Kisumu,Corporate,47
+CUST0034,Nairobi,Home Office,25
+CUST0035,Eldoret,Retail,51
+CUST0036,Nairobi,Home Office,56
+CUST0037,Mombasa,Retail,42
+CUST0038,Nairobi,Corporate,61
+CUST0039,Mombasa,Home Office,60
+CUST0040,Eldoret,Home Office,20
+CUST0041,Eldoret,Retail,21
+CUST0042,Eldoret,Retail,30
+CUST0043,Mombasa,Retail,24
+CUST0044,Nairobi,Retail,31
+CUST0045,Nairobi,Retail,34
+CUST0046,Nairobi,Home Office,64
+CUST0047,Eldoret,Retail,52
+CUST0048,Eldoret,Corporate,46
+CUST0049,Kisumu,Home Office,47
+CUST0050,Mombasa,Home Office,55
+CUST0051,Kisumu,Corporate,27
+CUST0052,Mombasa,Corporate,22
+CUST0053,Kisumu,Corporate,34
+CUST0054,Nairobi,Retail,32
+CUST0055,Nairobi,Corporate,35
+CUST0056,Nairobi,Corporate,37
+CUST0057,Nairobi,Retail,53
+CUST0058,Kisumu,Retail,43
+CUST0059,Nairobi,Home Office,23
+CUST0060,Mombasa,Corporate,59
+CUST0061,Nairobi,Retail,55
+CUST0062,Kisumu,Corporate,61
+CUST0063,Eldoret,Retail,64
+CUST0064,Mombasa,Retail,19
+CUST0065,Kisumu,Home Office,27
+CUST0066,Mombasa,Home Office,18
+CUST0067,Nairobi,Home Office,38
+CUST0068,Eldoret,Retail,42
+CUST0069,Eldoret,Home Office,46
+CUST0070,Mombasa,Retail,28
+CUST0071,Kisumu,Retail,58
+CUST0072,Eldoret,Home Office,65
+CUST0073,Mombasa,Corporate,55
+CUST0074,Nairobi,Home Office,37
+CUST0075,Mombasa,Retail,55
+CUST0076,Mombasa,Retail,43
+CUST0077,Eldoret,Corporate,63
+CUST0078,Kisumu,Retail,22
+CUST0079,Nairobi,Corporate,44
+CUST0080,Nairobi,Home Office,27
+CUST0081,Eldoret,Retail,62
+CUST0082,Nairobi,Corporate,58
+CUST0083,Nairobi,Home Office,54
+CUST0084,Mombasa,Retail,53
+CUST0085,Mombasa,Retail,40
+CUST0086,Eldoret,Home Office,64
+CUST0087,Nairobi,Home Office,49
+CUST0088,Kisumu,Retail,61
+CUST0089,Eldoret,Corporate,32
+CUST0090,Kisumu,Retail,20
+CUST0091,Nairobi,Retail,50
+CUST0092,Nairobi,Home Office,23
+CUST0093,Mombasa,Corporate,58
+CUST0094,Nairobi,Home Office,48
+CUST0095,Kisumu,Home Office,48
+CUST0096,Mombasa,Corporate,21
+CUST0097,Kisumu,Retail,56
+CUST0098,Nairobi,Home Office,29
+CUST0099,Nairobi,Home Office,63
+CUST0100,Mombasa,Corporate,62
+CUST0101,Nairobi,Retail,32
+CUST0102,Kisumu,Corporate,25
+CUST0103,Kisumu,Retail,37
+CUST0104,Kisumu,Home Office,46
+CUST0105,Mombasa,Corporate,23
+CUST0106,Mombasa,Corporate,56
+CUST0107,Mombasa,Retail,63
+CUST0108,Eldoret,Retail,23
+CUST0109,Kisumu,Home Office,31
+CUST0110,Kisumu,Corporate,27
+CUST0111,Nairobi,Corporate,19
+CUST0112,Mombasa,Home Office,28
+CUST0113,Eldoret,Home Office,56
+CUST0114,Nairobi,Home Office,46
+CUST0115,Kisumu,Retail,23
+CUST0116,Eldoret,Retail,45
+CUST0117,Eldoret,Retail,30
+CUST0118,Eldoret,Retail,31
+CUST0119,Kisumu,Corporate,31
+CUST0120,Kisumu,Corporate,43
+CUST0121,Kisumu,Corporate,19
+CUST0122,Kisumu,Retail,51
+CUST0123,Mombasa,Retail,60
+CUST0124,Eldoret,Retail,64
+CUST0125,Kisumu,Retail,28
+CUST0126,Eldoret,Corporate,31
+CUST0127,Mombasa,Corporate,19
+CUST0128,Eldoret,Corporate,20
+CUST0129,Kisumu,Corporate,56
+CUST0130,Nairobi,Retail,40
+CUST0131,Nairobi,Home Office,34
+CUST0132,Eldoret,Home Office,57
+CUST0133,Kisumu,Home Office,43
+CUST0134,Kisumu,Corporate,28
+CUST0135,Mombasa,Home Office,29
+CUST0136,Kisumu,Corporate,43
+CUST0137,Eldoret,Retail,49
+CUST0138,Nairobi,Home Office,31
+CUST0139,Mombasa,Retail,33
+CUST0140,Nairobi,Retail,57
+CUST0141,Kisumu,Corporate,32
+CUST0142,Kisumu,Corporate,62
+CUST0143,Nairobi,Home Office,35
+CUST0144,Eldoret,Corporate,62
+CUST0145,Kisumu,Home Office,62
+CUST0146,Nairobi,Home Office,36
+CUST0147,Mombasa,Corporate,37
+CUST0148,Mombasa,Corporate,45
+CUST0149,Nairobi,Retail,35
+CUST0150,Nairobi,Home Office,64
+CUST0151,Nairobi,Corporate,58
+CUST0152,Eldoret,Corporate,52
+CUST0153,Kisumu,Home Office,58
+CUST0154,Nairobi,Corporate,61
+CUST0155,Kisumu,Retail,23
+CUST0156,Nairobi,Corporate,57
+CUST0157,Mombasa,Home Office,23
+CUST0158,Kisumu,Home Office,63
+CUST0159,Mombasa,Corporate,50
+CUST0160,Nairobi,Corporate,39
+CUST0161,Eldoret,Retail,54
+CUST0162,Eldoret,Retail,61
+CUST0163,Nairobi,Corporate,41
+CUST0164,Nairobi,Corporate,45
+CUST0165,Nairobi,Corporate,63
+CUST0166,Kisumu,Retail,46
+CUST0167,Eldoret,Home Office,63
+CUST0168,Mombasa,Corporate,27
+CUST0169,Mombasa,Home Office,36
+CUST0170,Eldoret,Retail,19
+CUST0171,Eldoret,Retail,58
+CUST0172,Mombasa,Retail,33
+CUST0173,Eldoret,Retail,44
+CUST0174,Kisumu,Corporate,51
+CUST0175,Eldoret,Corporate,42
+CUST0176,Eldoret,Retail,53
+CUST0177,Mombasa,Retail,50
+CUST0178,Nairobi,Retail,50
+CUST0179,Eldoret,Corporate,42
+CUST0180,Mombasa,Retail,25
+CUST0181,Nairobi,Retail,60
+CUST0182,Eldoret,Corporate,37
+CUST0183,Mombasa,Home Office,48
+CUST0184,Kisumu,Home Office,40
+CUST0185,Kisumu,Corporate,35
+CUST0186,Nairobi,Corporate,32
+CUST0187,Eldoret,Retail,36
+CUST0188,Nairobi,Home Office,41
+CUST0189,Eldoret,Corporate,34
+CUST0190,Eldoret,Retail,62
+CUST0191,Eldoret,Home Office,56
+CUST0192,Kisumu,Corporate,18
+CUST0193,Nairobi,Corporate,25
+CUST0194,Eldoret,Retail,60
+CUST0195,Mombasa,Corporate,21
+CUST0196,Nairobi,Home Office,23
+CUST0197,Eldoret,Corporate,19
+CUST0198,Kisumu,Home Office,61
+CUST0199,Mombasa,Home Office,39
+CUST0200,Mombasa,Home Office,36
+CUST0201,Kisumu,Corporate,59
+CUST0202,Kisumu,Corporate,34
+CUST0203,Nairobi,Retail,60
+CUST0204,Kisumu,Corporate,50
+CUST0205,Mombasa,Retail,33
+CUST0206,Kisumu,Retail,43
+CUST0207,Eldoret,Corporate,27
+CUST0208,Eldoret,Corporate,60
+CUST0209,Mombasa,Home Office,58
+CUST0210,Mombasa,Home Office,32
+CUST0211,Kisumu,Corporate,49
+CUST0212,Kisumu,Home Office,58
+CUST0213,Kisumu,Home Office,39
+CUST0214,Nairobi,Corporate,57
+CUST0215,Eldoret,Home Office,45
+CUST0216,Eldoret,Corporate,51
+CUST0217,Eldoret,Home Office,65
+CUST0218,Nairobi,Home Office,51
+CUST0219,Eldoret,Home Office,27
+CUST0220,Kisumu,Home Office,35
+CUST0221,Kisumu,Corporate,45
+CUST0222,Nairobi,Home Office,29
+CUST0223,Mombasa,Home Office,25
+CUST0224,Nairobi,Corporate,27
+CUST0225,Mombasa,Retail,21
+CUST0226,Eldoret,Corporate,63
+CUST0227,Kisumu,Retail,43
+CUST0228,Nairobi,Corporate,49
+CUST0229,Eldoret,Corporate,55
+CUST0230,Kisumu,Home Office,64
+CUST0231,Nairobi,Home Office,64
+CUST0232,Mombasa,Retail,19
+CUST0233,Eldoret,Home Office,23
+CUST0234,Kisumu,Retail,54
+CUST0235,Nairobi,Home Office,52
+CUST0236,Nairobi,Home Office,24
+CUST0237,Nairobi,Corporate,45
+CUST0238,Nairobi,Corporate,18
+CUST0239,Kisumu,Retail,47
+CUST0240,Mombasa,Home Office,21
+CUST0241,Eldoret,Retail,65
+CUST0242,Kisumu,Corporate,65
+CUST0243,Eldoret,Retail,21
+CUST0244,Eldoret,Corporate,57
+CUST0245,Kisumu,Home Office,32
+CUST0246,Eldoret,Retail,53
+CUST0247,Eldoret,Home Office,18
+CUST0248,Nairobi,Corporate,29
+CUST0249,Eldoret,Retail,29
+CUST0250,Eldoret,Retail,60
+CUST0251,Mombasa,Corporate,32
+CUST0252,Nairobi,Retail,58
+CUST0253,Nairobi,Home Office,39
+CUST0254,Nairobi,Home Office,63
+CUST0255,Kisumu,Home Office,59
+CUST0256,Mombasa,Retail,62
+CUST0257,Eldoret,Home Office,39
+CUST0258,Nairobi,Corporate,43
+CUST0259,Nairobi,Home Office,50
+CUST0260,Kisumu,Retail,65
+CUST0261,Kisumu,Home Office,37
+CUST0262,Mombasa,Retail,53
+CUST0263,Eldoret,Corporate,25
+CUST0264,Nairobi,Retail,39
+CUST0265,Kisumu,Home Office,59
+CUST0266,Mombasa,Corporate,21
+CUST0267,Mombasa,Retail,54
+CUST0268,Nairobi,Corporate,53
+CUST0269,Nairobi,Corporate,51
+CUST0270,Eldoret,Home Office,30
+CUST0271,Nairobi,Corporate,32
+CUST0272,Mombasa,Corporate,24
+CUST0273,Nairobi,Corporate,58
+CUST0274,Nairobi,Corporate,28
+CUST0275,Eldoret,Corporate,46
+CUST0276,Eldoret,Corporate,55
+CUST0277,Kisumu,Home Office,49
+CUST0278,Nairobi,Corporate,41
+CUST0279,Eldoret,Retail,24
+CUST0280,Mombasa,Retail,61
+CUST0281,Nairobi,Corporate,30
+CUST0282,Nairobi,Home Office,43
+CUST0283,Eldoret,Home Office,51
+CUST0284,Nairobi,Corporate,40
+CUST0285,Kisumu,Retail,23
+CUST0286,Nairobi,Corporate,60
+CUST0287,Mombasa,Corporate,18
+CUST0288,Eldoret,Corporate,24
+CUST0289,Eldoret,Retail,58
+CUST0290,Eldoret,Retail,52
+CUST0291,Nairobi,Home Office,36
+CUST0292,Mombasa,Home Office,24
+CUST0293,Eldoret,Home Office,33
+CUST0294,Nairobi,Home Office,58
+CUST0295,Nairobi,Home Office,38
+CUST0296,Nairobi,Corporate,29
+CUST0297,Kisumu,Home Office,33
+CUST0298,Nairobi,Corporate,42
+CUST0299,Kisumu,Retail,29
+CUST0300,Kisumu,Corporate,36

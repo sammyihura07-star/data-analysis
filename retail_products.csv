@@ -1,0 +1,13 @@
+product_id,product_name,category,base_price
+PROD001,Laptop,Technology,1723
+PROD002,Phone,Technology,1459
+PROD003,Tablet,Technology,1220
+PROD004,Monitor,Technology,1905
+PROD005,Chair,Furniture,587
+PROD006,Desk,Furniture,1047
+PROD007,Table,Furniture,870
+PROD008,Cabinet,Furniture,1365
+PROD009,Printer,Office Supplies,796
+PROD010,Paper,Office Supplies,321
+PROD011,Binder,Office Supplies,1093
+PROD012,Pen,Office Supplies,215

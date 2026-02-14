@@ -1,0 +1,1001 @@
+order_id,payment_method,payment_status
+ORD00001,Credit Card,Pending
+ORD00002,Bank Transfer,Pending
+ORD00003,Mpesa,Paid
+ORD00004,Credit Card,Paid
+ORD00005,Mpesa,Pending
+ORD00006,Bank Transfer,Pending
+ORD00007,Credit Card,Paid
+ORD00008,Bank Transfer,Paid
+ORD00009,Credit Card,Pending
+ORD00010,Mpesa,Pending
+ORD00011,Credit Card,Pending
+ORD00012,Bank Transfer,Pending
+ORD00013,Bank Transfer,Paid
+ORD00014,Credit Card,Pending
+ORD00015,Mpesa,Pending
+ORD00016,Credit Card,Paid
+ORD00017,Bank Transfer,Paid
+ORD00018,Mpesa,Paid
+ORD00019,Mpesa,Paid
+ORD00020,Credit Card,Pending
+ORD00021,Credit Card,Pending
+ORD00022,Mpesa,Paid
+ORD00023,Bank Transfer,Paid
+ORD00024,Credit Card,Pending
+ORD00025,Bank Transfer,Paid
+ORD00026,Mpesa,Pending
+ORD00027,Mpesa,Paid
+ORD00028,Credit Card,Pending
+ORD00029,Bank Transfer,Pending
+ORD00030,Credit Card,Paid
+ORD00031,Mpesa,Pending
+ORD00032,Bank Transfer,Paid
+ORD00033,Mpesa,Paid
+ORD00034,Credit Card,Paid
+ORD00035,Credit Card,Paid
+ORD00036,Bank Transfer,Paid
+ORD00037,Mpesa,Paid
+ORD00038,Credit Card,Paid
+ORD00039,Bank Transfer,Pending
+ORD00040,Mpesa,Pending
+ORD00041,Bank Transfer,Paid
+ORD00042,Bank Transfer,Pending
+ORD00043,Mpesa,Paid
+ORD00044,Bank Transfer,Pending
+ORD00045,Mpesa,Paid
+ORD00046,Mpesa,Paid
+ORD00047,Mpesa,Paid
+ORD00048,Credit Card,Pending
+ORD00049,Bank Transfer,Paid
+ORD00050,Mpesa,Pending
+ORD00051,Mpesa,Paid
+ORD00052,Mpesa,Pending
+ORD00053,Bank Transfer,Paid
+ORD00054,Credit Card,Paid
+ORD00055,Bank Transfer,Pending
+ORD00056,Credit Card,Paid
+ORD00057,Bank Transfer,Pending
+ORD00058,Credit Card,Pending
+ORD00059,Bank Transfer,Pending
+ORD00060,Mpesa,Paid
+ORD00061,Mpesa,Pending
+ORD00062,Credit Card,Pending
+ORD00063,Bank Transfer,Pending
+ORD00064,Mpesa,Pending
+ORD00065,Credit Card,Paid
+ORD00066,Mpesa,Pending
+ORD00067,Bank Transfer,Pending
+ORD00068,Credit Card,Paid
+ORD00069,Credit Card,Paid
+ORD00070,Bank Transfer,Paid
+ORD00071,Bank Transfer,Pending
+ORD00072,Credit Card,Pending
+ORD00073,Mpesa,Paid
+ORD00074,Mpesa,Paid
+ORD00075,Bank Transfer,Paid
+ORD00076,Credit Card,Pending
+ORD00077,Credit Card,Pending
+ORD00078,Mpesa,Pending
+ORD00079,Credit Card,Paid
+ORD00080,Mpesa,Pending
+ORD00081,Mpesa,Paid
+ORD00082,Bank Transfer,Paid
+ORD00083,Mpesa,Paid
+ORD00084,Bank Transfer,Paid
+ORD00085,Credit Card,Paid
+ORD00086,Bank Transfer,Paid
+ORD00087,Mpesa,Pending
+ORD00088,Bank Transfer,Paid
+ORD00089,Bank Transfer,Paid
+ORD00090,Mpesa,Pending
+ORD00091,Credit Card,Pending
+ORD00092,Credit Card,Paid
+ORD00093,Bank Transfer,Paid
+ORD00094,Mpesa,Paid
+ORD00095,Mpesa,Paid
+ORD00096,Credit Card,Paid
+ORD00097,Bank Transfer,Pending
+ORD00098,Mpesa,Pending
+ORD00099,Mpesa,Paid
+ORD00100,Mpesa,Pending
+ORD00101,Mpesa,Paid
+ORD00102,Credit Card,Paid
+ORD00103,Credit Card,Paid
+ORD00104,Credit Card,Pending
+ORD00105,Bank Transfer,Paid
+ORD00106,Credit Card,Paid
+ORD00107,Bank Transfer,Paid
+ORD00108,Mpesa,Pending
+ORD00109,Mpesa,Pending
+ORD00110,Bank Transfer,Pending
+ORD00111,Bank Transfer,Pending
+ORD00112,Credit Card,Paid
+ORD00113,Bank Transfer,Pending
+ORD00114,Mpesa,Pending
+ORD00115,Credit Card,Paid
+ORD00116,Mpesa,Pending
+ORD00117,Credit Card,Pending
+ORD00118,Mpesa,Pending
+ORD00119,Credit Card,Paid
+ORD00120,Credit Card,Pending
+ORD00121,Bank Transfer,Pending
+ORD00122,Mpesa,Pending
+ORD00123,Credit Card,Paid
+ORD00124,Mpesa,Pending
+ORD00125,Bank Transfer,Pending
+ORD00126,Bank Transfer,Paid
+ORD00127,Mpesa,Paid
+ORD00128,Bank Transfer,Pending
+ORD00129,Mpesa,Pending
+ORD00130,Credit Card,Pending
+ORD00131,Bank Transfer,Paid
+ORD00132,Bank Transfer,Pending
+ORD00133,Bank Transfer,Pending
+ORD00134,Credit Card,Paid
+ORD00135,Bank Transfer,Paid
+ORD00136,Bank Transfer,Paid
+ORD00137,Mpesa,Paid
+ORD00138,Credit Card,Pending
+ORD00139,Credit Card,Paid
+ORD00140,Bank Transfer,Pending
+ORD00141,Bank Transfer,Paid
+ORD00142,Mpesa,Paid
+ORD00143,Bank Transfer,Pending
+ORD00144,Mpesa,Paid
+ORD00145,Mpesa,Paid
+ORD00146,Credit Card,Paid
+ORD00147,Mpesa,Pending
+ORD00148,Credit Card,Pending
+ORD00149,Bank Transfer,Pending
+ORD00150,Credit Card,Pending
+ORD00151,Credit Card,Paid
+ORD00152,Credit Card,Pending
+ORD00153,Mpesa,Pending
+ORD00154,Credit Card,Paid
+ORD00155,Mpesa,Pending
+ORD00156,Credit Card,Paid
+ORD00157,Bank Transfer,Pending
+ORD00158,Mpesa,Paid
+ORD00159,Bank Transfer,Pending
+ORD00160,Bank Transfer,Paid
+ORD00161,Mpesa,Paid
+ORD00162,Mpesa,Pending
+ORD00163,Credit Card,Pending
+ORD00164,Credit Card,Paid
+ORD00165,Bank Transfer,Pending
+ORD00166,Mpesa,Pending
+ORD00167,Mpesa,Pending
+ORD00168,Mpesa,Pending
+ORD00169,Credit Card,Paid
+ORD00170,Bank Transfer,Pending
+ORD00171,Credit Card,Paid
+ORD00172,Credit Card,Paid
+ORD00173,Bank Transfer,Paid
+ORD00174,Mpesa,Paid
+ORD00175,Credit Card,Paid
+ORD00176,Bank Transfer,Pending
+ORD00177,Bank Transfer,Paid
+ORD00178,Mpesa,Paid
+ORD00179,Credit Card,Paid
+ORD00180,Bank Transfer,Paid
+ORD00181,Bank Transfer,Paid
+ORD00182,Bank Transfer,Paid
+ORD00183,Bank Transfer,Pending
+ORD00184,Bank Transfer,Pending
+ORD00185,Bank Transfer,Paid
+ORD00186,Credit Card,Paid
+ORD00187,Bank Transfer,Pending
+ORD00188,Credit Card,Paid
+ORD00189,Credit Card,Paid
+ORD00190,Mpesa,Pending
+ORD00191,Mpesa,Pending
+ORD00192,Bank Transfer,Pending
+ORD00193,Mpesa,Paid
+ORD00194,Bank Transfer,Paid
+ORD00195,Mpesa,Paid
+ORD00196,Credit Card,Pending
+ORD00197,Bank Transfer,Paid
+ORD00198,Bank Transfer,Paid
+ORD00199,Bank Transfer,Paid
+ORD00200,Mpesa,Paid
+ORD00201,Credit Card,Pending
+ORD00202,Credit Card,Paid
+ORD00203,Bank Transfer,Paid
+ORD00204,Mpesa,Paid
+ORD00205,Bank Transfer,Paid
+ORD00206,Bank Transfer,Paid
+ORD00207,Bank Transfer,Paid
+ORD00208,Credit Card,Pending
+ORD00209,Bank Transfer,Paid
+ORD00210,Credit Card,Paid
+ORD00211,Mpesa,Paid
+ORD00212,Mpesa,Pending
+ORD00213,Mpesa,Pending
+ORD00214,Mpesa,Paid
+ORD00215,Credit Card,Paid
+ORD00216,Credit Card,Pending
+ORD00217,Credit Card,Paid
+ORD00218,Credit Card,Paid
+ORD00219,Bank Transfer,Paid
+ORD00220,Credit Card,Pending
+ORD00221,Credit Card,Paid
+ORD00222,Mpesa,Paid
+ORD00223,Bank Transfer,Pending
+ORD00224,Bank Transfer,Pending
+ORD00225,Credit Card,Paid
+ORD00226,Bank Transfer,Paid
+ORD00227,Credit Card,Pending
+ORD00228,Credit Card,Paid
+ORD00229,Mpesa,Paid
+ORD00230,Bank Transfer,Paid
+ORD00231,Mpesa,Pending
+ORD00232,Bank Transfer,Paid
+ORD00233,Credit Card,Paid
+ORD00234,Mpesa,Pending
+ORD00235,Bank Transfer,Pending
+ORD00236,Mpesa,Pending
+ORD00237,Mpesa,Paid
+ORD00238,Credit Card,Paid
+ORD00239,Mpesa,Pending
+ORD00240,Bank Transfer,Paid
+ORD00241,Credit Card,Paid
+ORD00242,Mpesa,Paid
+ORD00243,Bank Transfer,Paid
+ORD00244,Bank Transfer,Paid
+ORD00245,Bank Transfer,Paid
+ORD00246,Mpesa,Pending
+ORD00247,Bank Transfer,Paid
+ORD00248,Credit Card,Paid
+ORD00249,Bank Transfer,Paid
+ORD00250,Mpesa,Pending
+ORD00251,Credit Card,Pending
+ORD00252,Credit Card,Pending
+ORD00253,Credit Card,Paid
+ORD00254,Bank Transfer,Pending
+ORD00255,Mpesa,Pending
+ORD00256,Bank Transfer,Paid
+ORD00257,Credit Card,Paid
+ORD00258,Mpesa,Paid
+ORD00259,Bank Transfer,Paid
+ORD00260,Credit Card,Pending
+ORD00261,Bank Transfer,Pending
+ORD00262,Bank Transfer,Pending
+ORD00263,Credit Card,Pending
+ORD00264,Mpesa,Pending
+ORD00265,Credit Card,Paid
+ORD00266,Credit Card,Paid
+ORD00267,Credit Card,Pending
+ORD00268,Mpesa,Paid
+ORD00269,Mpesa,Pending
+ORD00270,Mpesa,Paid
+ORD00271,Mpesa,Paid
+ORD00272,Credit Card,Paid
+ORD00273,Bank Transfer,Pending
+ORD00274,Bank Transfer,Pending
+ORD00275,Credit Card,Paid
+ORD00276,Bank Transfer,Paid
+ORD00277,Mpesa,Pending
+ORD00278,Bank Transfer,Pending
+ORD00279,Credit Card,Pending
+ORD00280,Credit Card,Paid
+ORD00281,Mpesa,Pending
+ORD00282,Bank Transfer,Pending
+ORD00283,Mpesa,Paid
+ORD00284,Bank Transfer,Paid
+ORD00285,Bank Transfer,Pending
+ORD00286,Bank Transfer,Pending
+ORD00287,Mpesa,Pending
+ORD00288,Credit Card,Pending
+ORD00289,Mpesa,Pending
+ORD00290,Bank Transfer,Paid
+ORD00291,Mpesa,Pending
+ORD00292,Mpesa,Paid
+ORD00293,Mpesa,Paid
+ORD00294,Mpesa,Paid
+ORD00295,Bank Transfer,Pending
+ORD00296,Mpesa,Paid
+ORD00297,Bank Transfer,Paid
+ORD00298,Mpesa,Paid
+ORD00299,Bank Transfer,Paid
+ORD00300,Bank Transfer,Paid
+ORD00301,Credit Card,Paid
+ORD00302,Mpesa,Pending
+ORD00303,Bank Transfer,Pending
+ORD00304,Credit Card,Paid
+ORD00305,Credit Card,Pending
+ORD00306,Mpesa,Pending
+ORD00307,Bank Transfer,Paid
+ORD00308,Credit Card,Paid
+ORD00309,Bank Transfer,Pending
+ORD00310,Mpesa,Pending
+ORD00311,Credit Card,Pending
+ORD00312,Mpesa,Pending
+ORD00313,Credit Card,Paid
+ORD00314,Credit Card,Pending
+ORD00315,Credit Card,Paid
+ORD00316,Mpesa,Pending
+ORD00317,Bank Transfer,Pending
+ORD00318,Bank Transfer,Pending
+ORD00319,Credit Card,Paid
+ORD00320,Mpesa,Pending
+ORD00321,Bank Transfer,Pending
+ORD00322,Mpesa,Pending
+ORD00323,Bank Transfer,Pending
+ORD00324,Credit Card,Pending
+ORD00325,Mpesa,Paid
+ORD00326,Mpesa,Pending
+ORD00327,Credit Card,Pending
+ORD00328,Bank Transfer,Pending
+ORD00329,Credit Card,Pending
+ORD00330,Mpesa,Pending
+ORD00331,Mpesa,Pending
+ORD00332,Bank Transfer,Pending
+ORD00333,Mpesa,Paid
+ORD00334,Credit Card,Pending
+ORD00335,Bank Transfer,Paid
+ORD00336,Credit Card,Paid
+ORD00337,Bank Transfer,Pending
+ORD00338,Credit Card,Paid
+ORD00339,Mpesa,Pending
+ORD00340,Credit Card,Pending
+ORD00341,Mpesa,Pending
+ORD00342,Bank Transfer,Pending
+ORD00343,Bank Transfer,Paid
+ORD00344,Bank Transfer,Paid
+ORD00345,Bank Transfer,Paid
+ORD00346,Mpesa,Pending
+ORD00347,Mpesa,Pending
+ORD00348,Credit Card,Pending
+ORD00349,Credit Card,Paid
+ORD00350,Credit Card,Pending
+ORD00351,Mpesa,Paid
+ORD00352,Credit Card,Paid
+ORD00353,Bank Transfer,Paid
+ORD00354,Mpesa,Paid
+ORD00355,Mpesa,Pending
+ORD00356,Bank Transfer,Pending
+ORD00357,Credit Card,Paid
+ORD00358,Bank Transfer,Paid
+ORD00359,Credit Card,Pending
+ORD00360,Mpesa,Pending
+ORD00361,Credit Card,Pending
+ORD00362,Bank Transfer,Paid
+ORD00363,Bank Transfer,Paid
+ORD00364,Bank Transfer,Paid
+ORD00365,Credit Card,Pending
+ORD00366,Credit Card,Pending
+ORD00367,Bank Transfer,Paid
+ORD00368,Mpesa,Pending
+ORD00369,Bank Transfer,Pending
+ORD00370,Mpesa,Paid
+ORD00371,Credit Card,Pending
+ORD00372,Bank Transfer,Pending
+ORD00373,Mpesa,Paid
+ORD00374,Mpesa,Pending
+ORD00375,Bank Transfer,Paid
+ORD00376,Credit Card,Pending
+ORD00377,Mpesa,Paid
+ORD00378,Bank Transfer,Pending
+ORD00379,Bank Transfer,Pending
+ORD00380,Mpesa,Paid
+ORD00381,Mpesa,Pending
+ORD00382,Bank Transfer,Pending
+ORD00383,Credit Card,Pending
+ORD00384,Bank Transfer,Pending
+ORD00385,Bank Transfer,Pending
+ORD00386,Mpesa,Pending
+ORD00387,Bank Transfer,Paid
+ORD00388,Credit Card,Paid
+ORD00389,Bank Transfer,Paid
+ORD00390,Mpesa,Pending
+ORD00391,Credit Card,Paid
+ORD00392,Mpesa,Paid
+ORD00393,Credit Card,Paid
+ORD00394,Bank Transfer,Pending
+ORD00395,Credit Card,Pending
+ORD00396,Bank Transfer,Pending
+ORD00397,Bank Transfer,Pending
+ORD00398,Mpesa,Pending
+ORD00399,Mpesa,Pending
+ORD00400,Mpesa,Paid
+ORD00401,Bank Transfer,Pending
+ORD00402,Mpesa,Pending
+ORD00403,Credit Card,Paid
+ORD00404,Bank Transfer,Paid
+ORD00405,Bank Transfer,Paid
+ORD00406,Bank Transfer,Pending
+ORD00407,Bank Transfer,Paid
+ORD00408,Credit Card,Paid
+ORD00409,Credit Card,Paid
+ORD00410,Credit Card,Paid
+ORD00411,Bank Transfer,Paid
+ORD00412,Mpesa,Pending
+ORD00413,Credit Card,Paid
+ORD00414,Credit Card,Pending
+ORD00415,Credit Card,Pending
+ORD00416,Mpesa,Pending
+ORD00417,Credit Card,Paid
+ORD00418,Bank Transfer,Paid
+ORD00419,Bank Transfer,Pending
+ORD00420,Mpesa,Pending
+ORD00421,Credit Card,Pending
+ORD00422,Credit Card,Paid
+ORD00423,Bank Transfer,Pending
+ORD00424,Mpesa,Pending
+ORD00425,Bank Transfer,Paid
+ORD00426,Mpesa,Paid
+ORD00427,Credit Card,Paid
+ORD00428,Mpesa,Paid
+ORD00429,Credit Card,Paid
+ORD00430,Bank Transfer,Paid
+ORD00431,Bank Transfer,Paid
+ORD00432,Mpesa,Paid
+ORD00433,Bank Transfer,Pending
+ORD00434,Mpesa,Paid
+ORD00435,Credit Card,Pending
+ORD00436,Mpesa,Paid
+ORD00437,Mpesa,Paid
+ORD00438,Credit Card,Pending
+ORD00439,Credit Card,Paid
+ORD00440,Bank Transfer,Paid
+ORD00441,Mpesa,Pending
+ORD00442,Mpesa,Paid
+ORD00443,Bank Transfer,Paid
+ORD00444,Bank Transfer,Paid
+ORD00445,Bank Transfer,Pending
+ORD00446,Credit Card,Paid
+ORD00447,Credit Card,Paid
+ORD00448,Credit Card,Paid
+ORD00449,Mpesa,Pending
+ORD00450,Mpesa,Paid
+ORD00451,Mpesa,Pending
+ORD00452,Mpesa,Pending
+ORD00453,Mpesa,Pending
+ORD00454,Mpesa,Pending
+ORD00455,Credit Card,Paid
+ORD00456,Mpesa,Pending
+ORD00457,Bank Transfer,Pending
+ORD00458,Credit Card,Paid
+ORD00459,Bank Transfer,Pending
+ORD00460,Mpesa,Paid
+ORD00461,Bank Transfer,Paid
+ORD00462,Credit Card,Pending
+ORD00463,Credit Card,Pending
+ORD00464,Bank Transfer,Pending
+ORD00465,Mpesa,Pending
+ORD00466,Bank Transfer,Pending
+ORD00467,Credit Card,Paid
+ORD00468,Mpesa,Pending
+ORD00469,Bank Transfer,Pending
+ORD00470,Mpesa,Paid
+ORD00471,Credit Card,Pending
+ORD00472,Bank Transfer,Paid
+ORD00473,Credit Card,Paid
+ORD00474,Mpesa,Paid
+ORD00475,Credit Card,Paid
+ORD00476,Mpesa,Paid
+ORD00477,Bank Transfer,Pending
+ORD00478,Mpesa,Pending
+ORD00479,Bank Transfer,Paid
+ORD00480,Credit Card,Paid
+ORD00481,Mpesa,Paid
+ORD00482,Mpesa,Pending
+ORD00483,Credit Card,Paid
+ORD00484,Credit Card,Paid
+ORD00485,Bank Transfer,Pending
+ORD00486,Mpesa,Paid
+ORD00487,Mpesa,Paid
+ORD00488,Bank Transfer,Pending
+ORD00489,Credit Card,Pending
+ORD00490,Credit Card,Pending
+ORD00491,Credit Card,Pending
+ORD00492,Mpesa,Paid
+ORD00493,Mpesa,Pending
+ORD00494,Bank Transfer,Paid
+ORD00495,Mpesa,Paid
+ORD00496,Mpesa,Pending
+ORD00497,Mpesa,Paid
+ORD00498,Bank Transfer,Paid
+ORD00499,Credit Card,Paid
+ORD00500,Mpesa,Pending
+ORD00501,Bank Transfer,Paid
+ORD00502,Bank Transfer,Paid
+ORD00503,Credit Card,Paid
+ORD00504,Mpesa,Paid
+ORD00505,Bank Transfer,Pending
+ORD00506,Mpesa,Pending
+ORD00507,Credit Card,Paid
+ORD00508,Mpesa,Paid
+ORD00509,Bank Transfer,Pending
+ORD00510,Mpesa,Pending
+ORD00511,Bank Transfer,Paid
+ORD00512,Mpesa,Pending
+ORD00513,Mpesa,Paid
+ORD00514,Mpesa,Pending
+ORD00515,Mpesa,Pending
+ORD00516,Mpesa,Pending
+ORD00517,Credit Card,Pending
+ORD00518,Bank Transfer,Pending
+ORD00519,Bank Transfer,Paid
+ORD00520,Bank Transfer,Paid
+ORD00521,Mpesa,Pending
+ORD00522,Bank Transfer,Paid
+ORD00523,Credit Card,Paid
+ORD00524,Credit Card,Pending
+ORD00525,Credit Card,Pending
+ORD00526,Credit Card,Pending
+ORD00527,Bank Transfer,Paid
+ORD00528,Mpesa,Paid
+ORD00529,Credit Card,Pending
+ORD00530,Bank Transfer,Pending
+ORD00531,Credit Card,Pending
+ORD00532,Mpesa,Paid
+ORD00533,Credit Card,Pending
+ORD00534,Mpesa,Paid
+ORD00535,Bank Transfer,Pending
+ORD00536,Mpesa,Pending
+ORD00537,Credit Card,Pending
+ORD00538,Mpesa,Pending
+ORD00539,Credit Card,Paid
+ORD00540,Mpesa,Pending
+ORD00541,Credit Card,Paid
+ORD00542,Mpesa,Pending
+ORD00543,Credit Card,Pending
+ORD00544,Credit Card,Paid
+ORD00545,Mpesa,Paid
+ORD00546,Mpesa,Paid
+ORD00547,Mpesa,Paid
+ORD00548,Mpesa,Paid
+ORD00549,Credit Card,Pending
+ORD00550,Credit Card,Paid
+ORD00551,Credit Card,Paid
+ORD00552,Bank Transfer,Pending
+ORD00553,Bank Transfer,Pending
+ORD00554,Mpesa,Pending
+ORD00555,Credit Card,Pending
+ORD00556,Credit Card,Paid
+ORD00557,Mpesa,Pending
+ORD00558,Bank Transfer,Pending
+ORD00559,Bank Transfer,Pending
+ORD00560,Bank Transfer,Pending
+ORD00561,Mpesa,Paid
+ORD00562,Mpesa,Pending
+ORD00563,Credit Card,Paid
+ORD00564,Mpesa,Pending
+ORD00565,Mpesa,Pending
+ORD00566,Bank Transfer,Paid
+ORD00567,Credit Card,Paid
+ORD00568,Bank Transfer,Paid
+ORD00569,Credit Card,Pending
+ORD00570,Credit Card,Paid
+ORD00571,Mpesa,Paid
+ORD00572,Credit Card,Pending
+ORD00573,Mpesa,Paid
+ORD00574,Credit Card,Paid
+ORD00575,Mpesa,Pending
+ORD00576,Mpesa,Pending
+ORD00577,Mpesa,Pending
+ORD00578,Bank Transfer,Pending
+ORD00579,Mpesa,Paid
+ORD00580,Mpesa,Pending
+ORD00581,Bank Transfer,Pending
+ORD00582,Mpesa,Paid
+ORD00583,Bank Transfer,Paid
+ORD00584,Credit Card,Pending
+ORD00585,Credit Card,Pending
+ORD00586,Mpesa,Pending
+ORD00587,Mpesa,Pending
+ORD00588,Mpesa,Paid
+ORD00589,Bank Transfer,Paid
+ORD00590,Bank Transfer,Pending
+ORD00591,Mpesa,Paid
+ORD00592,Bank Transfer,Paid
+ORD00593,Mpesa,Pending
+ORD00594,Mpesa,Pending
+ORD00595,Mpesa,Pending
+ORD00596,Credit Card,Paid
+ORD00597,Bank Transfer,Pending
+ORD00598,Mpesa,Pending
+ORD00599,Bank Transfer,Pending
+ORD00600,Mpesa,Pending
+ORD00601,Mpesa,Paid
+ORD00602,Bank Transfer,Paid
+ORD00603,Mpesa,Pending
+ORD00604,Credit Card,Pending
+ORD00605,Credit Card,Pending
+ORD00606,Mpesa,Paid
+ORD00607,Mpesa,Paid
+ORD00608,Mpesa,Paid
+ORD00609,Mpesa,Paid
+ORD00610,Credit Card,Pending
+ORD00611,Bank Transfer,Pending
+ORD00612,Credit Card,Paid
+ORD00613,Credit Card,Pending
+ORD00614,Mpesa,Pending
+ORD00615,Credit Card,Paid
+ORD00616,Credit Card,Paid
+ORD00617,Bank Transfer,Pending
+ORD00618,Mpesa,Pending
+ORD00619,Credit Card,Pending
+ORD00620,Mpesa,Paid
+ORD00621,Bank Transfer,Pending
+ORD00622,Credit Card,Pending
+ORD00623,Bank Transfer,Paid
+ORD00624,Bank Transfer,Paid
+ORD00625,Mpesa,Pending
+ORD00626,Bank Transfer,Paid
+ORD00627,Bank Transfer,Pending
+ORD00628,Mpesa,Paid
+ORD00629,Mpesa,Paid
+ORD00630,Bank Transfer,Paid
+ORD00631,Mpesa,Pending
+ORD00632,Credit Card,Paid
+ORD00633,Credit Card,Paid
+ORD00634,Bank Transfer,Paid
+ORD00635,Credit Card,Pending
+ORD00636,Bank Transfer,Pending
+ORD00637,Credit Card,Pending
+ORD00638,Bank Transfer,Paid
+ORD00639,Credit Card,Paid
+ORD00640,Credit Card,Paid
+ORD00641,Credit Card,Paid
+ORD00642,Credit Card,Pending
+ORD00643,Credit Card,Paid
+ORD00644,Credit Card,Paid
+ORD00645,Credit Card,Pending
+ORD00646,Bank Transfer,Pending
+ORD00647,Bank Transfer,Pending
+ORD00648,Bank Transfer,Paid
+ORD00649,Bank Transfer,Paid
+ORD00650,Bank Transfer,Pending
+ORD00651,Credit Card,Paid
+ORD00652,Mpesa,Paid
+ORD00653,Bank Transfer,Pending
+ORD00654,Bank Transfer,Paid
+ORD00655,Credit Card,Paid
+ORD00656,Mpesa,Pending
+ORD00657,Credit Card,Pending
+ORD00658,Mpesa,Paid
+ORD00659,Bank Transfer,Paid
+ORD00660,Mpesa,Pending
+ORD00661,Bank Transfer,Pending
+ORD00662,Bank Transfer,Pending
+ORD00663,Mpesa,Pending
+ORD00664,Credit Card,Paid
+ORD00665,Credit Card,Paid
+ORD00666,Bank Transfer,Pending
+ORD00667,Mpesa,Paid
+ORD00668,Credit Card,Paid
+ORD00669,Credit Card,Pending
+ORD00670,Mpesa,Paid
+ORD00671,Credit Card,Paid
+ORD00672,Credit Card,Pending
+ORD00673,Credit Card,Paid
+ORD00674,Credit Card,Paid
+ORD00675,Mpesa,Pending
+ORD00676,Credit Card,Pending
+ORD00677,Credit Card,Pending
+ORD00678,Credit Card,Pending
+ORD00679,Mpesa,Pending
+ORD00680,Credit Card,Paid
+ORD00681,Credit Card,Pending
+ORD00682,Mpesa,Paid
+ORD00683,Credit Card,Paid
+ORD00684,Bank Transfer,Pending
+ORD00685,Mpesa,Pending
+ORD00686,Credit Card,Pending
+ORD00687,Credit Card,Paid
+ORD00688,Mpesa,Pending
+ORD00689,Bank Transfer,Paid
+ORD00690,Mpesa,Paid
+ORD00691,Bank Transfer,Pending
+ORD00692,Mpesa,Paid
+ORD00693,Credit Card,Pending
+ORD00694,Bank Transfer,Paid
+ORD00695,Mpesa,Pending
+ORD00696,Bank Transfer,Paid
+ORD00697,Bank Transfer,Pending
+ORD00698,Credit Card,Paid
+ORD00699,Credit Card,Paid
+ORD00700,Credit Card,Paid
+ORD00701,Credit Card,Pending
+ORD00702,Bank Transfer,Paid
+ORD00703,Credit Card,Pending
+ORD00704,Credit Card,Pending
+ORD00705,Mpesa,Pending
+ORD00706,Bank Transfer,Paid
+ORD00707,Mpesa,Paid
+ORD00708,Mpesa,Pending
+ORD00709,Bank Transfer,Paid
+ORD00710,Mpesa,Paid
+ORD00711,Mpesa,Pending
+ORD00712,Credit Card,Paid
+ORD00713,Credit Card,Paid
+ORD00714,Bank Transfer,Pending
+ORD00715,Bank Transfer,Pending
+ORD00716,Credit Card,Pending
+ORD00717,Mpesa,Paid
+ORD00718,Credit Card,Paid
+ORD00719,Credit Card,Paid
+ORD00720,Bank Transfer,Paid
+ORD00721,Mpesa,Pending
+ORD00722,Credit Card,Paid
+ORD00723,Mpesa,Paid
+ORD00724,Credit Card,Paid
+ORD00725,Credit Card,Paid
+ORD00726,Bank Transfer,Pending
+ORD00727,Bank Transfer,Pending
+ORD00728,Credit Card,Paid
+ORD00729,Credit Card,Paid
+ORD00730,Bank Transfer,Pending
+ORD00731,Mpesa,Paid
+ORD00732,Credit Card,Pending
+ORD00733,Mpesa,Pending
+ORD00734,Bank Transfer,Pending
+ORD00735,Credit Card,Paid
+ORD00736,Mpesa,Pending
+ORD00737,Mpesa,Pending
+ORD00738,Credit Card,Paid
+ORD00739,Mpesa,Paid
+ORD00740,Bank Transfer,Pending
+ORD00741,Credit Card,Pending
+ORD00742,Mpesa,Paid
+ORD00743,Credit Card,Paid
+ORD00744,Mpesa,Pending
+ORD00745,Credit Card,Pending
+ORD00746,Mpesa,Paid
+ORD00747,Bank Transfer,Pending
+ORD00748,Mpesa,Paid
+ORD00749,Credit Card,Paid
+ORD00750,Bank Transfer,Pending
+ORD00751,Mpesa,Pending
+ORD00752,Credit Card,Pending
+ORD00753,Bank Transfer,Paid
+ORD00754,Mpesa,Paid
+ORD00755,Bank Transfer,Pending
+ORD00756,Bank Transfer,Pending
+ORD00757,Credit Card,Paid
+ORD00758,Bank Transfer,Pending
+ORD00759,Credit Card,Pending
+ORD00760,Bank Transfer,Paid
+ORD00761,Mpesa,Paid
+ORD00762,Bank Transfer,Pending
+ORD00763,Bank Transfer,Pending
+ORD00764,Credit Card,Pending
+ORD00765,Credit Card,Paid
+ORD00766,Bank Transfer,Paid
+ORD00767,Bank Transfer,Pending
+ORD00768,Bank Transfer,Paid
+ORD00769,Bank Transfer,Paid
+ORD00770,Mpesa,Paid
+ORD00771,Credit Card,Pending
+ORD00772,Bank Transfer,Paid
+ORD00773,Credit Card,Pending
+ORD00774,Mpesa,Pending
+ORD00775,Credit Card,Pending
+ORD00776,Bank Transfer,Paid
+ORD00777,Credit Card,Paid
+ORD00778,Credit Card,Pending
+ORD00779,Bank Transfer,Paid
+ORD00780,Credit Card,Pending
+ORD00781,Credit Card,Pending
+ORD00782,Bank Transfer,Paid
+ORD00783,Bank Transfer,Paid
+ORD00784,Credit Card,Pending
+ORD00785,Mpesa,Pending
+ORD00786,Mpesa,Pending
+ORD00787,Credit Card,Paid
+ORD00788,Bank Transfer,Pending
+ORD00789,Credit Card,Pending
+ORD00790,Bank Transfer,Pending
+ORD00791,Mpesa,Pending
+ORD00792,Mpesa,Pending
+ORD00793,Mpesa,Pending
+ORD00794,Bank Transfer,Pending
+ORD00795,Mpesa,Pending
+ORD00796,Credit Card,Pending
+ORD00797,Bank Transfer,Pending
+ORD00798,Mpesa,Paid
+ORD00799,Credit Card,Pending
+ORD00800,Mpesa,Pending
+ORD00801,Mpesa,Pending
+ORD00802,Bank Transfer,Paid
+ORD00803,Mpesa,Paid
+ORD00804,Bank Transfer,Pending
+ORD00805,Bank Transfer,Pending
+ORD00806,Credit Card,Pending
+ORD00807,Mpesa,Paid
+ORD00808,Bank Transfer,Pending
+ORD00809,Bank Transfer,Paid
+ORD00810,Credit Card,Pending
+ORD00811,Credit Card,Paid
+ORD00812,Credit Card,Paid
+ORD00813,Credit Card,Pending
+ORD00814,Mpesa,Pending
+ORD00815,Credit Card,Paid
+ORD00816,Credit Card,Pending
+ORD00817,Bank Transfer,Pending
+ORD00818,Credit Card,Pending
+ORD00819,Bank Transfer,Pending
+ORD00820,Credit Card,Pending
+ORD00821,Credit Card,Paid
+ORD00822,Mpesa,Pending
+ORD00823,Mpesa,Pending
+ORD00824,Mpesa,Paid
+ORD00825,Credit Card,Pending
+ORD00826,Mpesa,Paid
+ORD00827,Credit Card,Paid
+ORD00828,Bank Transfer,Paid
+ORD00829,Bank Transfer,Pending
+ORD00830,Bank Transfer,Paid
+ORD00831,Bank Transfer,Pending
+ORD00832,Credit Card,Pending
+ORD00833,Credit Card,Paid
+ORD00834,Credit Card,Paid
+ORD00835,Mpesa,Paid
+ORD00836,Credit Card,Paid
+ORD00837,Mpesa,Paid
+ORD00838,Mpesa,Paid
+ORD00839,Mpesa,Paid
+ORD00840,Credit Card,Pending
+ORD00841,Mpesa,Paid
+ORD00842,Mpesa,Pending
+ORD00843,Credit Card,Pending
+ORD00844,Mpesa,Paid
+ORD00845,Bank Transfer,Pending
+ORD00846,Bank Transfer,Paid
+ORD00847,Credit Card,Paid
+ORD00848,Bank Transfer,Paid
+ORD00849,Credit Card,Pending
+ORD00850,Credit Card,Paid
+ORD00851,Bank Transfer,Paid
+ORD00852,Bank Transfer,Pending
+ORD00853,Bank Transfer,Paid
+ORD00854,Mpesa,Pending
+ORD00855,Bank Transfer,Paid
+ORD00856,Bank Transfer,Paid
+ORD00857,Bank Transfer,Paid
+ORD00858,Bank Transfer,Paid
+ORD00859,Credit Card,Paid
+ORD00860,Credit Card,Pending
+ORD00861,Mpesa,Paid
+ORD00862,Credit Card,Pending
+ORD00863,Bank Transfer,Paid
+ORD00864,Bank Transfer,Paid
+ORD00865,Bank Transfer,Paid
+ORD00866,Bank Transfer,Pending
+ORD00867,Mpesa,Paid
+ORD00868,Credit Card,Paid
+ORD00869,Bank Transfer,Paid
+ORD00870,Bank Transfer,Paid
+ORD00871,Bank Transfer,Pending
+ORD00872,Credit Card,Paid
+ORD00873,Bank Transfer,Paid
+ORD00874,Credit Card,Paid
+ORD00875,Bank Transfer,Paid
+ORD00876,Credit Card,Pending
+ORD00877,Mpesa,Pending
+ORD00878,Bank Transfer,Pending
+ORD00879,Bank Transfer,Pending
+ORD00880,Bank Transfer,Pending
+ORD00881,Credit Card,Paid
+ORD00882,Mpesa,Paid
+ORD00883,Bank Transfer,Pending
+ORD00884,Bank Transfer,Pending
+ORD00885,Mpesa,Pending
+ORD00886,Mpesa,Paid
+ORD00887,Bank Transfer,Pending
+ORD00888,Bank Transfer,Paid
+ORD00889,Mpesa,Pending
+ORD00890,Credit Card,Pending
+ORD00891,Bank Transfer,Pending
+ORD00892,Bank Transfer,Paid
+ORD00893,Credit Card,Pending
+ORD00894,Mpesa,Pending
+ORD00895,Bank Transfer,Pending
+ORD00896,Credit Card,Paid
+ORD00897,Bank Transfer,Paid
+ORD00898,Bank Transfer,Paid
+ORD00899,Credit Card,Pending
+ORD00900,Bank Transfer,Paid
+ORD00901,Bank Transfer,Pending
+ORD00902,Mpesa,Paid
+ORD00903,Bank Transfer,Pending
+ORD00904,Mpesa,Pending
+ORD00905,Mpesa,Paid
+ORD00906,Mpesa,Pending
+ORD00907,Bank Transfer,Paid
+ORD00908,Mpesa,Paid
+ORD00909,Mpesa,Paid
+ORD00910,Credit Card,Pending
+ORD00911,Mpesa,Pending
+ORD00912,Bank Transfer,Paid
+ORD00913,Mpesa,Pending
+ORD00914,Mpesa,Paid
+ORD00915,Credit Card,Paid
+ORD00916,Bank Transfer,Paid
+ORD00917,Mpesa,Pending
+ORD00918,Mpesa,Pending
+ORD00919,Credit Card,Pending
+ORD00920,Bank Transfer,Pending
+ORD00921,Credit Card,Paid
+ORD00922,Mpesa,Pending
+ORD00923,Bank Transfer,Paid
+ORD00924,Bank Transfer,Pending
+ORD00925,Credit Card,Paid
+ORD00926,Bank Transfer,Pending
+ORD00927,Credit Card,Pending
+ORD00928,Credit Card,Pending
+ORD00929,Bank Transfer,Pending
+ORD00930,Credit Card,Pending
+ORD00931,Mpesa,Pending
+ORD00932,Mpesa,Pending
+ORD00933,Bank Transfer,Pending
+ORD00934,Bank Transfer,Pending
+ORD00935,Credit Card,Paid
+ORD00936,Credit Card,Paid
+ORD00937,Credit Card,Pending
+ORD00938,Credit Card,Paid
+ORD00939,Bank Transfer,Paid
+ORD00940,Credit Card,Pending
+ORD00941,Mpesa,Pending
+ORD00942,Bank Transfer,Pending
+ORD00943,Credit Card,Pending
+ORD00944,Credit Card,Paid
+ORD00945,Mpesa,Paid
+ORD00946,Credit Card,Paid
+ORD00947,Mpesa,Pending
+ORD00948,Bank Transfer,Pending
+ORD00949,Mpesa,Pending
+ORD00950,Bank Transfer,Paid
+ORD00951,Credit Card,Pending
+ORD00952,Credit Card,Paid
+ORD00953,Mpesa,Paid
+ORD00954,Bank Transfer,Paid
+ORD00955,Bank Transfer,Pending
+ORD00956,Mpesa,Pending
+ORD00957,Mpesa,Pending
+ORD00958,Credit Card,Pending
+ORD00959,Mpesa,Paid
+ORD00960,Mpesa,Paid
+ORD00961,Bank Transfer,Paid
+ORD00962,Credit Card,Paid
+ORD00963,Mpesa,Pending
+ORD00964,Mpesa,Pending
+ORD00965,Credit Card,Pending
+ORD00966,Bank Transfer,Pending
+ORD00967,Mpesa,Paid
+ORD00968,Bank Transfer,Paid
+ORD00969,Bank Transfer,Pending
+ORD00970,Bank Transfer,Paid
+ORD00971,Credit Card,Pending
+ORD00972,Credit Card,Paid
+ORD00973,Bank Transfer,Pending
+ORD00974,Bank Transfer,Paid
+ORD00975,Mpesa,Paid
+ORD00976,Credit Card,Paid
+ORD00977,Bank Transfer,Pending
+ORD00978,Credit Card,Pending
+ORD00979,Credit Card,Paid
+ORD00980,Mpesa,Pending
+ORD00981,Bank Transfer,Paid
+ORD00982,Mpesa,Pending
+ORD00983,Credit Card,Paid
+ORD00984,Credit Card,Pending
+ORD00985,Bank Transfer,Paid
+ORD00986,Credit Card,Paid
+ORD00987,Credit Card,Pending
+ORD00988,Bank Transfer,Pending
+ORD00989,Bank Transfer,Paid
+ORD00990,Mpesa,Pending
+ORD00991,Credit Card,Pending
+ORD00992,Bank Transfer,Paid
+ORD00993,Bank Transfer,Paid
+ORD00994,Mpesa,Pending
+ORD00995,Bank Transfer,Paid
+ORD00996,Credit Card,Pending
+ORD00997,Bank Transfer,Pending
+ORD00998,Credit Card,Paid
+ORD00999,Credit Card,Paid
+ORD01000,Mpesa,Paid
